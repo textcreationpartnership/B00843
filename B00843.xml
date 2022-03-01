@@ -1,0 +1,371 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Et se ta viande est de grant pris]</title>
+            <title>Lytell treatyse for to lerne Englysshe and Frensshe.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1553</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00843</idno>
+            <idno type="STC">STC 24868</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.40.m.9.[21]</idno>
+            <idno type="EEBO-CITATION">99891122</idno>
+            <idno type="PROQUEST">ocm99891122</idno>
+            <idno type="VID">182178</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00843)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182178)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:2[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[Et se ta viande est de grant pris]</title>
+                  <title>Lytell treatyse for to lerne Englysshe and Frensshe.</title>
+               </titleStmt>
+               <extent>[6]+ p.   </extent>
+               <publicationStmt>
+                  <publisher>R. Wyer?,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>ca. 1553]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first line of text.</note>
+                  <note>Uniform title and imprint suggested by STC.</note>
+                  <note>Fragment. STC suggests leaves B2-B4; Item at reel A3:2[24] begins with leaf B3.</note>
+                  <note>Portion of the Book of Courtesy only. Cf. STC.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>French language --  Conversation and phrase books --  English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="fragment">
+            <pb facs="tcp:182178:1"/>
+            <!-- PDF PAGE 98 -->
+            <list>
+               <label> </label>
+               <item>Et ſe ta viande eſt de grant pris</item>
+               <label>Beware the or thou arte nat wyſe</label>
+               <item>Garde toy ou tu nays pasſage</item>
+               <label>Speake no worde ſtyll ne lowde</label>
+               <item>Ne parle mout ne bas ne hault</item>
+               <label>Of peaſe and curteſy loke that thou ſpeake</label>
+               <item>De payx et courtoyſye garde que tu parles</item>
+               <label>And at the table make good chere</label>
+               <item>Et en la table fays bonne chere</item>
+               <label>And loke thou rowne nat in any yere</label>
+               <item>Et garde toye deſcoutre en nulle oreylle</item>
+               <label>And with thy fyngers thou touche nor taſt</label>
+               <item>Et auec tes doys tu ne touches ne taſtes</item>
+               <label>They meet / and loke thou make no waſte</label>
+               <item>Ta viande et te garde que tu ne la degaſtis</item>
+               <label>Loke thou neither laugh ne gtynne</label>
+               <item>Garde que tu ne ris ne rechignes</item>
+               <label>If thou myſſe ſpeke thou mayſt do ſynne</label>
+               <item>Se tu meſparles tu peuix fayre peche</item>
+               <label>For many wordes be nat commendable</label>
+               <item>Car pluſieurs parolles ne ſont poynt conuenables</item>
+               <label>And in eſpeciall at thy mayſters table</label>
+               <item>Et en eſpecial a la table de ton mayſtre</item>
+               <label>Take hede thou ſpytle neither meate nor drynke</label>
+               <item>Garde que tu ne gaſtes ne boyr ne menger</item>
+               <label>But ſer it downe faire and ſtyll</label>
+               <item>Mays met la bas bel &amp; coy</item>
+               <label>Kepe the clothe fayre before the</label>
+               <item> </item>
+               <pb facs="tcp:182178:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 99 -->
+               <label>
+                  <gap reason="illegible" resp="#PDCC" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </label>
+               <item>Ne mors poynt ta viande mays la trenche nette</item>
+               <label>Be well ware that no droppe be ſene</label>
+               <item>Garde toy bien que nulle goutte ſayt veue</item>
+               <label>whan thou eateſt gape nat to wyde</label>
+               <item>Quant tu menges ne baille poynt trop large</item>
+               <label>That thy mouthe may be ſene on euery ſyde</label>
+               <item>One ta bouche ne ſoyt veue de chaſcune coſte</item>
+               <label>And ſonne beware the of one thynge</label>
+               <item>Et filz garde <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oy dune choſe</item>
+               <label>Blowe nat on thy meate / ne in thy drynke</label>
+               <item>Ne ſoufle poynt en ta viande ne en ton boyre</item>
+               <label>And if thy lorde drynke at that houre</label>
+               <item>Et ſe ton ſeigneur boyt a celle heure</item>
+               <label>Drynke thou nat but hym abyde</label>
+               <item>Ne boy poynt mays attens ſe</item>
+               <label>Be it at euen or be it at none</label>
+               <item>Soyt au veſpre ou ſo it a nonne</item>
+               <label>Drynke thou nat tyll he haue done</label>
+               <item>Ne boye pas tant quil ayt fayt</item>
+               <label>Vpon thy trenchour no fylthe thou ſe</label>
+               <item>Deſſus tot trenchouer nulle ordure ne voys</item>
+               <label>It is nat honeſt I tell the</label>
+               <item>Il neſt pas honeſtie te le dis</item>
+               <label>Ne drynke nat behynde no mannes backe</label>
+               <item>Ne boy poynt derriere le dos de nul homme</item>
+               <label>In no maner wyſe</label>
+               <item>/ en nulle maniere ne guyſe</item>
+               <label>For if thou do thou arte to be diſprayſed</label>
+               <item>Car ſe tule fays tu es a deſpriſer</item>
+               <label>
+                  <pb facs="tcp:182178:3" rendition="simple:additions"/>
+                  <!-- PDF PAGE 100 -->And be neuer to haſtye</label>
+               <item>Et <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>amays ne ſoyes trop haſtye</item>
+               <label>Caſte nat the bones in to the flore</label>
+               <item>Ne iecte pas tes os en layre</item>
+               <label>But lay them fayre on thy trenchoure</label>
+               <item>Mays couche les beau ſur ton trenchouer</item>
+               <label>Kepe clene thy clothes before the</label>
+               <item>Garde ta robe nette deuant toye</item>
+               <label>And ſyt the ſtyll what ſo happen</label>
+               <item>Et te tiens aſſys quiconque ſuruienne</item>
+               <label>Tyll grace be ſayd vnto thende</label>
+               <item>Ius ques le graces ſoyent dictes en la fyn</item>
+               <label>Loke the more worthyer than thou</label>
+               <item>Regarde le plus digne que toy.</item>
+               <label>waſſhe afore the and that is thy prowe</label>
+               <item>Laue deuant toy et cela eſt ton profit</item>
+               <label>And ſpytte nat in thy baſyn</label>
+               <item>Et ne crache poynt en ton baſhyn</item>
+               <label>My ſwete ſonne whan thou waſſheſt therin</label>
+               <item>Mon doulx filz quant tu auras laue dedens</item>
+               <label>Ariſe vp ſoftli and ſtyl</label>
+               <item>/ leues toy ſꝰ en pays et quoi</item>
+               <label>And iangle neither with Iacke ne Gylle</label>
+               <item>Et ne iangle poynt auec Iacquet ne Guillet</item>
+               <label>But take thy leaue of thy lorde louyngly</label>
+               <item>Mays prens congie de ton ſeygneur amoureſment</item>
+               <label>And thanke hym with thyn herte hyghly</label>
+               <item>Et le mercie de ton cueur haultement</item>
+               <label>And all the gentyll men in the ſame manere</label>
+               <item>Et tous les gentilz hommes en celle manyere</item>
+               <label>And the mayſtres in lyke wyſe</label>
+               <pb facs="tcp:182178:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 101 -->
+               <item>Et les mayſtres pareillement.</item>
+               <label>And bere the ſo that thou haue no blame</label>
+               <item>Et port toy amſy que tu nayes blame.</item>
+               <label>And than men wyll ſaye here after</label>
+               <item>Donques les hommes diront icy apres</item>
+               <label>That a gentyllman was here</label>
+               <item>Que vng gentill home eſtoyt icy</item>
+               <label>And he that diſpiſeth theſe thynges</label>
+               <item>Et celuy qui deſpryſe ces choſes.</item>
+               <label>He is nat worthy without leſynge</label>
+               <item>Il neſt poynt digne ſans faylle</item>
+               <label>Neuer at good mannes table to ſytte</label>
+               <item>Iamays a table de bon homme ſe ſoyr</item>
+               <label>Ne of worſhyppe for to wytte</label>
+               <item>Ne dehomeur pour enſcauoyr.</item>
+               <label>And therfore children for charite</label>
+               <item>Et pour ce enfans pour charite</item>
+               <label>Loue this boke thoughe it lyttell be</label>
+               <item>Aymez ce liure combien petit ſoyt</item>
+               <label>And praye for hym that made it</label>
+               <item>Et pryes pur celuy que le fiſt</item>
+               <label>To lyue and dye amonge his frendes</label>
+               <item>A viure et mouryr parmy ſes amys</item>
+               <label>And neuer to come amonge the fendes</label>
+               <item>Et iamays de venir entre les dyables</item>
+               <label>The whiche ben in the pytre of helle</label>
+               <item>Les quelx ſont au fons denfer.</item>
+               <label>But in his laſt ende in heuen for to dwell</label>
+               <item>Mays en la fin en paradyſe pour demourer.</item>
+               <label>
+                  <pb facs="tcp:182178:5"/>
+                  <!-- PDF PAGE 102 -->
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> thy meate in thy mouthe is,</label>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ys que ta viand en ta bouche eſt</item>
+               <label>Drynke thou nat forgette nat this</label>
+               <item>Ne boye pas ne oublye pas cecy</item>
+               <label>Eate thy meat by ſmall morcelles</label>
+               <item>Menge ta viende par menus morceaulx</item>
+               <label>Fyll nat thy mouthe as dothe glouttons</label>
+               <item>Ne amplys pas ta bouche comme font glouto<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <label>Pyke nat thy tethe with thy knyfe</label>
+               <item>Ne cure pas tes dens auecques ton couteau,</item>
+               <label>whyle thou eateſt by thy lyfe</label>
+               <item>Tant que tu menges par ta vie</item>
+               <label>And whan thou haſt thy potage done</label>
+               <item>Et quant tu as de ton potage fayt</item>
+               <label>Out of thy dyſſhe put thy ſpone</label>
+               <item>Hors de ton eſcuelle boute ta cuiller</item>
+               <label>Nor ſpyttte thou nat ouer the table</label>
+               <item>Ne crache poynt oultre la table</item>
+               <label>Nor there on / for it is nat commendable</label>
+               <item>Ne deſſus caril neſt pas couenable</item>
+               <label>Lay nat thyne elbowe nor thy fyſt</label>
+               <item>Ne touche poynt ton coude ne ton poynge</item>
+               <label>Vpon the table / at the whiche thou eateſt</label>
+               <item>Deſſes la table en la quelle tu menges</item>
+               <label>Bolke nat as a bone were in thy throte</label>
+               <item>Ne route poynt comme ſe vng otz fuſt en ta gorge.</item>
+               <label>As a chorle that cometh out of a cote</label>
+               <item>Comme vng villayn que vient hors dung tas</item>
+               <label>For that ſhulde be great vylanye</label>
+               <item>Car cela ſera grant villayne</item>
+               <pb facs="tcp:182178:6"/>
+               <!-- PDF PAGE 103 -->
+               <label>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> eare a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</label>
+               <item>/ actes e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mege<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <label>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> haſt thy full ſeruyſe</label>
+               <item>Iuſque <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ue tu ayes ton playne ſeruice.</item>
+               <label>Touche <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>meaſe in no wyſe</label>
+               <item>No touche poynt aux viandes en nulle guyſe</item>
+               <label>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at thy breade to thynne</label>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oupe pas ton payn trop tenue</item>
+               <label>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>to thycke but betwene bothe</label>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rop eſpes mays entre deulx</item>
+               <label>The morcell that thou begynneſt to touche</label>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e morceau que tu commences a toucher</item>
+               <label>Cut it clene and nat to moche</label>
+               <item>Coupe la netet non pas trop</item>
+               <label>Caſt it nat out of thy mouthe</label>
+               <item>Ne le iecte pas hors de ta bouche</item>
+               <label>Put nat thy fyngers in thy dyſſhe</label>
+               <item>Ne mis poynt tes doys en ton eſcuelle</item>
+               <label>Neither in meat of fleſſhe ne fyſſhe</label>
+               <item>Ne en viande de chayr ne de poyſſon</item>
+               <label>Put nat thy meate in the ſalte</label>
+               <item>Ne mis poynt ta viande en ton ſell</item>
+               <label>Ne in to the ſeller that it holdeth</label>
+               <item>Ne en la ſaliere que le ſuſtient</item>
+               <label>But lay it fayre on thy trenchour</label>
+               <item>Mais la couche beau ſur ton trenchouer</item>
+               <label>Before the and that is honoure</label>
+               <item>Deuaut toy et cela eſt honoure</item>
+               <label>Pyke nat thy eares nor noſethrylles</label>
+               <item>Ne cure poynt tes oraylles ne tes nazylies</item>
+               <label>And if thou do / me<g ref="char:cmbAbbrStroke">̄</g> wyl ſay thou came of chorles</label>
+               <item> </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
